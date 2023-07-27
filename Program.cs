@@ -3,7 +3,7 @@
 //string[] array = new string[] {"Russia", "Denmark", "Kazan"};
 string[] res = new string[5];
 int j = 0;
-for(int i = 0;i < array.Length; i++)
+for(int i = 0; i < array.Length; i++)
 {
     if(array[i].Length <= 3)
     {
