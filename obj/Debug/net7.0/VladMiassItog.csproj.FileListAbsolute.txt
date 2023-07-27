@@ -1,0 +1,15 @@
+D:\Developer\VladMiassItog\obj\Debug\net7.0\VladMiassItog.csproj.AssemblyReference.cache
+D:\Developer\VladMiassItog\obj\Debug\net7.0\VladMiassItog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\VladMiassItog\obj\Debug\net7.0\VladMiassItog.AssemblyInfoInputs.cache
+D:\Developer\VladMiassItog\obj\Debug\net7.0\VladMiassItog.AssemblyInfo.cs
+D:\Developer\VladMiassItog\obj\Debug\net7.0\VladMiassItog.csproj.CoreCompileInputs.cache
+D:\Developer\VladMiassItog\bin\Debug\net7.0\VladMiassItog.exe
+D:\Developer\VladMiassItog\bin\Debug\net7.0\VladMiassItog.deps.json
+D:\Developer\VladMiassItog\bin\Debug\net7.0\VladMiassItog.runtimeconfig.json
+D:\Developer\VladMiassItog\bin\Debug\net7.0\VladMiassItog.dll
+D:\Developer\VladMiassItog\bin\Debug\net7.0\VladMiassItog.pdb
+D:\Developer\VladMiassItog\obj\Debug\net7.0\VladMiassItog.dll
+D:\Developer\VladMiassItog\obj\Debug\net7.0\refint\VladMiassItog.dll
+D:\Developer\VladMiassItog\obj\Debug\net7.0\VladMiassItog.pdb
+D:\Developer\VladMiassItog\obj\Debug\net7.0\VladMiassItog.genruntimeconfig.cache
+D:\Developer\VladMiassItog\obj\Debug\net7.0\ref\VladMiassItog.dll
